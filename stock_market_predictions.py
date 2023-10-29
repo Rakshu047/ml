@@ -1,4 +1,4 @@
-!pip install sklearn
+pip3 install sklearn
 import pandas as pd
 import numpy as np
 import sklearn.metrics as mts
