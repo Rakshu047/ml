@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import scikit_learn.metrics as mts
 from pandas_datareader import data as pdr
 from datetime import datetime,date 
 import streamlit as st
