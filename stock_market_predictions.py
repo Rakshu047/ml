@@ -102,7 +102,3 @@ if st.sidebar.button("Fetch Data"):
         st.sidebar.write("The Stock price will Increase")
     else:
         st.sidebar.write("The Stock price will decrease")
-
-
-
-    
